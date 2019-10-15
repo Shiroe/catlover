@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anxhelo Balliu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shiroe/catlover.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/Shiroe/catlover/issues"
+  },
+  "homepage": "https://github.com/Shiroe/catlover#readme"
 }
