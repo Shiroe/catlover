@@ -1,7 +1,7 @@
 {
-  "name": "catlover",
+  "name": "react-boilerplate",
   "version": "0.1.0",
-  "description": "CatLover Demo React App",
+  "description": "React Boilerplate App",
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.prod.js",
@@ -20,13 +20,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shiroe/catlover.git"
+    "url": "git+https://github.com/Shiroe/react-boilerplate.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/Shiroe/catlover/issues"
+    "url": "https://github.com/Shiroe/react-boilerplate/issues"
   },
-  "homepage": "https://github.com/Shiroe/catlover#readme",
+  "homepage": "https://github.com/Shiroe/react-boilerplate#readme",
   "devDependencies": {
     "@babel/cli": "^7.6.4",
     "@babel/core": "^7.6.4",
@@ -50,6 +50,7 @@
     "jest": "^24.9.0",
     "prettier": "^1.18.2",
     "pretty-quick": "^2.0.0",
+    "react-axe": "^3.3.0",
     "style-loader": "^1.0.0",
     "webpack": "^4.41.2",
     "webpack-bundle-analyzer": "^3.5.2",

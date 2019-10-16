@@ -1,1 +1,1 @@
-# CatLover - Demo React App
+# React Demo Boilerplate App
