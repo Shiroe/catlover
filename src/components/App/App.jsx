@@ -1,11 +1,12 @@
 import React from 'react';
 import { hot } from 'react-hot-loader';
+import './App.scss';
 
 class App extends React.Component {
   render() {
     return (
-      <div>
-        <h1>React Boilerplate</h1>
+      <div className="App">
+        <h1 className="App__heading">React Boilerplate</h1>
       </div>
     );
   }
